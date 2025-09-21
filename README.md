@@ -17,6 +17,9 @@
 
 ### 使用方法
 
+json数据结构的获取
+在devv中打开浏览器network，在filter中输入project，复制整个json-obj走即可
+
 1. 克隆或下载此项目：
 ```bash
 git clone <repository-url>
